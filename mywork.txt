@@ -1,0 +1,19 @@
+My associate id:
+844255
+Other team members:
+844254, 844416, 844244
+Team lead:
+844254
+My Role in team:
+1. To develop placeAppointment  and Json(storage)
+My development files:
+1. placeAppointment.component.html
+2. placeAppointment.component.ts
+3. placeAppointment.co.css
+I was strong in:
+1.HttpClient 
+2. Documentation
+I was weak in:
+1. Reactive Forms 
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
